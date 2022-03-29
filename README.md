@@ -5,7 +5,7 @@
 Me llamo Álvaro Bernardo Saura, tengo 20 años y soy un estudiante de Grado de Ciclo Superior de Desarrollo de Aplicaciones en el Centro de Formacion de Avilés.
 
 # Finalidad de la Aplicacion
-La finalidad de la aplicación es crear una una aplicación de una empresa para comprar y vender productos donde todos los productos tienen como datos el nombre del producto(alfanumérico), el código del producto, el precio al que la empresa compra el producto,el precio al que la empresa vende el producto y el stock.
+La finalidad de la aplicación es crear una una aplicación de una empresa para comprar y vender productos donde todos los productos tienen como datos el nombre del producto, el código del producto, el precio al que la empresa compra el producto,el precio al que la empresa vende el producto y el stock.
 
 # Tecnologias Implementadas
 La tecnologias utilizadas en este proyecto son **HTML y Java**.
